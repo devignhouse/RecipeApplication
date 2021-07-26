@@ -3,12 +3,10 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\recipes\\recipe-detail",
-    "\\src\\app\\recipes\\recipe-list",
-    "\\src\\app\\Shared",
-    "\\src\\app\\shopping-list",
-    "\\src\\app\\shopping-list\\shopping-edit"
+    "\\src\\app\\recipes\\recipe-list\\recipe-item",
+    "\\src\\app\\shared",
+    "\\src\\app\\shopping-list"
   ],
-  "SelectedNode": "\\src\\app\\shopping-list\\shopping-edit\\shopping-edit.component.html",
+  "SelectedNode": "\\src\\app\\shopping-list\\shopping-list.component.ts",
   "PreviewInSolutionExplorer": false
 }
